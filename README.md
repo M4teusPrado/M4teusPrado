@@ -1,9 +1,5 @@
 ### Hi, I'm Mateus Prado :man_technologist: :rocket:
 
-
-![capa](https://github.com/M4teusPrado/M4teusPrado/blob/main/capa.png)
-
-
 ## About Me 💻
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
