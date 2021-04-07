@@ -1,9 +1,38 @@
-### Hi, I'm Mateus :man_technologist: :rocket:
+### Hi, I'm Mateus Prado :man_technologist: :rocket:
 
 
 ![capa](https://github.com/M4teusPrado/M4teusPrado/blob/main/capa.png)
 
 
-Sou estudante de engenharia da computação, atualmente estou cursando o 3° semestre na Universidade Academica [Facens](https://www.facens.br/home). Algumas tecnologias com quais gosto de trabalhar incluem Java (principalmente para projetos Spring Boot), C/C++ para resoluções de problemas logicos, como Problemas do caixeiro-viajante, simplex e diversos outro no site [URI Judge](https://www.urionlinejudge.com.br/judge/pt/profile/324137), no momento venho estudando o framework angular para aplicações web.
+### Skills/Interests
 
+**Languages**
 
+<a href="https://www.java.com/en/">
+  <img
+    alt="Java"
+    height="80"
+    width="80"
+    src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/java.svg" />
+</a>
+<a href="https://www.cprogramming.com/">
+  <img
+    alt="C"
+    height="80"
+    width="80"
+    src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/c-original.svg?raw=true?sanitize=true" />
+</a>
+<a href="https://www.javascript.com/">
+  <img
+    alt="JavaScript"
+    height="80"
+    width="80"
+    src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/javascript.svg" />
+</a>
+
+## Github Stats 📈
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=M4teusPrado&show_icons=true&theme=light&line_height=40">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=M4teusPrado&theme=light">
+</p>
