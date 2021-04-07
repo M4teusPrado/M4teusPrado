@@ -4,7 +4,14 @@
 ![capa](https://github.com/M4teusPrado/M4teusPrado/blob/main/capa.png)
 
 
-### Skills/Interests
+## About Me 💻
+
+- 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
+- 🎓 &nbsp; Studying Software Engineering at Facens .
+
+
+
+## Tech Stack 🧰
 
 **Languages**
 
@@ -29,6 +36,10 @@
     width="80"
     src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/javascript.svg" />
 </a>
+
+
+
+
 
 ## Github Stats 📈
 
